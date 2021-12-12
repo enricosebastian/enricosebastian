@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align='justify'>📚 currently learning</h2>
+<h2 align='justify'>📚 learning rn... </h2>
 - PHP
 - TensorFlow (Oh boy)
 
