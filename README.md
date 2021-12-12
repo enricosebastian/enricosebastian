@@ -12,7 +12,6 @@
 - TensorFlow (Oh boy)
 
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enricosebastian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
