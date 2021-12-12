@@ -5,4 +5,10 @@ I dabble mostly in web and mobile apps, but during my breaks, I end up contempla
 
 ### 📚 currently learning
 - PHP
-- Machine learning (Oh boy)
+- TensorFlow (Oh boy)
+
+<br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enricosebastian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
