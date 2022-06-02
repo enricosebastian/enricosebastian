@@ -1,15 +1,16 @@
-<h1 align='center'> hello, world <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'></h1>
+<h1 align='center'>hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 
 <!-- I should start using gifs more often... -->
-
 <p align='center'>Currently an electronics engineering undergrad, minoring in software development.</p>
 
 <br>
 
 <h2 align='justify'>📚 learning right now... </h2>
 
-- OpenCV & TensorFlow (Oh boy)
-- Unity & C#
+- [x] OpenCV & TensorFlow (Oh boy)
+- [ ] Unity
+- [x] .NET 6 and C#
+- [x] PHP
 
 <br>
 
