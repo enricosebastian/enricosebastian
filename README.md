@@ -6,11 +6,11 @@
 <br>
 
 <h2 align='justify'>📚 learning right now... </h2>
-
-- [x] OpenCV & TensorFlow (Oh boy)
+- [ ] Laravel
 - [ ] Unity
+- [x] OpenCV & TensorFlow (Oh boy)
 - [x] .NET 6 and C#
-- [x] PHP
+- [x] Next.js 
 
 <br>
 
