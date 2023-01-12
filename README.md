@@ -3,7 +3,7 @@
 <!-- I should start using gifs more often... -->
 <p align='center'>Yeah, that's right. I had an approved pull request from Microsoft Azure...<em>'s documentation team</em></p>
 
-### Toolbelt
+### 🛠️ Toolbelt
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,7 +22,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-### Hoping to learn someday
+### 🙇‍♂️ Hoping to learn someday
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
