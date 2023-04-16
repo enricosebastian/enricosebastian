@@ -4,7 +4,7 @@
 <p align='center'>Yeah, <em><strong>that's right</strong></em>. I had an approved pull request from <strong>Microsoft Azure</strong><sup>'s documentation team</sup></p>
 
 
-
+[comment]: <this was taken from: https://home.aveek.io/GitHub-Profile-Badges/>
 ### 📙 Main languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
